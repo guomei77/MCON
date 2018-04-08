@@ -1,0 +1,7 @@
+.panel-group .panel+.panel {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.panel{
+  text-align:center;
+}
